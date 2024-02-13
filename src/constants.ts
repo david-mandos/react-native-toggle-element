@@ -11,7 +11,7 @@ export const COLOR_DEFAULT = {
   trackActiveBg: "#aacfcf",
   trackInActiveBg: "#679b9b",
   textActive: "#ffffff",
-  textInActive: "#888888",
+  textInActive: "#ffffff",
   thumbActive: "#fde2e2",
   thumbInActive: "#ffb6b6",
   disable: "#666666",
